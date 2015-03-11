@@ -9,5 +9,10 @@ MongoDB, Express Web Framework, AngularJS and Node.js are the full names. Briefl
 
 The main idea: one language rules them all. http://tech.pro/tutorial/1383/javascript-one-language-to-rule-them-all
 
+The origin of the term: http://blog.mongodb.org/post/49262866911/the-mean-stack-mongodb-expressjs-angularjs-and
+
+http://en.wikipedia.org/wiki/MEAN
+
+
 
 
