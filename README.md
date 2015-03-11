@@ -14,5 +14,7 @@ The origin of the term: http://blog.mongodb.org/post/49262866911/the-mean-stack-
 http://en.wikipedia.org/wiki/MEAN
 
 
+Advantages of MEAN stack over other stacks:
+One language vs three or more languages (for RoR, we need to know Ruby, JavaScript, SQL, for Spring framework, you need to know Java, JavaScript and SQL, etc).....
 
-
+Watch this again: the first part: https://www.youtube.com/watch?v=XwSFg8nqBFA
